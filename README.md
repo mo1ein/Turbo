@@ -1,2 +1,2 @@
 # Turbo
-python Web framework based on @Tornado 
+python Web framework based on Tornado
